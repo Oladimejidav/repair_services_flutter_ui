@@ -1,6 +1,4 @@
-# 🔥 🔥 Repair Service Flutter UI Kit 🔥 🔥 💫 ⭐️ ⭐️ 👨‍💻 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/kVnGBigCHEEK.svg?style=social)](https://twitter.com/kVnGBigCHEEK)
-
-PRs are welcomed. Issues are welcomed too.
+# Repair Service Flutter UI Kit [![Twitter Follow](https://img.shields.io/twitter/follow/kVnGBigCHEEK.svg?style=social)](https://twitter.com/kVnGBigCHEEK)
 
 ### 💻 Requirements
 
